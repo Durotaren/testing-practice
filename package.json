@@ -1,0 +1,28 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "JavaScript testing practice using Jest. Includes unit tests for string utilities, a calculator, a Caesar cipher, and array analysis as part of The Odin Project curriculum.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durotaren/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Durotaren/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Durotaren/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.6",
+    "jest": "^30.2.0"
+  }
+}
